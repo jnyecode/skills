@@ -5,6 +5,8 @@ description: Interview the user relentlessly about a plan or design until reachi
 
 Interview me relentlessly about every aspect of this plan until we reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one-by-one. For each question, provide your recommended answer.
 
+Ask the questions one at a time.
+
 If a question can be answered by exploring the codebase, explore the codebase instead.
 
 When interviewing, ask one question at a time and focus on resolving that question before moving on to the next one. If the user provides an answer, ask follow-up questions to clarify and explore the implications of that answer.
